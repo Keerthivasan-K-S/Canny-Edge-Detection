@@ -79,27 +79,8 @@ plt.show()
 
 ---
 
-## How to Run
-
-### 1. Install Required Libraries
-
-```bash
-pip install opencv-python matplotlib
-```
-
-### 2. Place the Input Image
-Store the image in the specified path or update the image path in the code.
-
-### 3. Run the Program
-
-```bash
-python canny_edge_detection.py
-```
-
-### 4. View Results
-The program displays:
-- Original Image
-- Edge Detected Image
+## Output :
+<img width="927" height="575" alt="image" src="https://github.com/user-attachments/assets/2b028095-1f0e-447e-ac84-bc632eba089c" />
 
 ---
 
